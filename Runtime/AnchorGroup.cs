@@ -1,6 +1,5 @@
-﻿using Unity.Mathematics;
+﻿using Nebukam.Geom;
 using static Unity.Mathematics.math;
-using Nebukam.Geom;
 
 namespace Nebukam.FFD
 {
@@ -10,7 +9,7 @@ namespace Nebukam.FFD
         protected override void OnVertexAdded(Anchor v)
         {
             base.OnVertexAdded(v);
-            v.diff = float3(false);
+            v.diff = float3(0f);
         }
 
     }
