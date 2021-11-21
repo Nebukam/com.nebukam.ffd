@@ -5,6 +5,7 @@
   "description": "FFD utils",
   "unity": "2019.4",
   "unityRelease": "17f1",
+  "documentationUrl":"https://nebukam.github.io/docs/unity/com.nebukam.ffd/",
   "keywords": [
     "Geometry",
     "Splines"
