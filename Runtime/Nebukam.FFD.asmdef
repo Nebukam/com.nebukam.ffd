@@ -4,6 +4,7 @@
         "Unity.Mathematics",
         "Unity.Collections",
         "Nebukam.Common",
+        "Nebukam.Common.Editor",
         "Nebukam.Utils",
         "Nebukam.JobAssist",
         "Nebukam.Geom"
