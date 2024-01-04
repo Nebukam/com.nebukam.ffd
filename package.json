@@ -1,10 +1,10 @@
 {
   "name": "com.nebukam.ffd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "displayName": "N:FFD",
   "description": "FFD utils",
-  "unity": "2019.4",
-  "unityRelease": "17f1",
+  "unity": "2022.1",
+  "unityRelease": "0f1",
   "documentationUrl":"https://nebukam.github.io/docs/unity/com.nebukam.ffd/",
   "keywords": [
     "Geometry",
